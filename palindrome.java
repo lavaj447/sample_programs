@@ -65,7 +65,6 @@ class Palindrome
       System.out.println("The string isn't a palindrome.");
 
 
-
   }
 
 
