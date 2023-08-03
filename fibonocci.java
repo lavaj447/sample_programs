@@ -1,7 +1,6 @@
 Fibonacci Series:
 
 
-
 public class JavaExample {
 
 
