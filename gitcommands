@@ -1,0 +1,9 @@
+ls-list all the elements
+cd-change the curret directory
+echo- display the message
+mv- moving the file 
+cat- chec the contents n a directory
+mkdir- create a directory
+rm- remove the cotents of a file
+rm -r removve the whole dirctory along with existed files
+touch-create the files
